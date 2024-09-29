@@ -15,4 +15,4 @@
   <li>Congragulations!! Project is running</li>
     </ol>
 </ol>
-<img src="my sign.jpg" alt="My Sign" width="500"/>
+<!-- <img src="my sign.jpg" alt="My Sign" width="500"/> -->
